@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 **As a** [role]  
- **I need** [a functionality]  
- **So that** [business value/benefit]  
+**I need** [a functionality]  
+**So that** [business value/benefit]  
    
- ### Details and Assumptions
+### Details and Assumptions
  * [document what you know]
    
- ### Acceptance Criteria  
+### Acceptance Criteria  
    
- ```gherkin
+```gherkin
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
- ```
+```
